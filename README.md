@@ -1,4 +1,4 @@
-Coding practice practice by applying the concepts we have learned till now.
+Added Cart Features:
 
 ### Refer to the video below:
 
