@@ -1,10 +1,11 @@
 Final Update -> Added Cart Features:
 
-Prime User credentials
+Prime User credentials:
 
  username: rahul
  password: rahul@2021
-Non-Prime User credentials
+ 
+Non-Prime User credentials:
 
  username: raja
  password: raja@2021
