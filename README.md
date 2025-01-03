@@ -32,7 +32,7 @@ Added Cart Features:
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionalitis added</summary>
 <br/>
 
 Added following functionalities
@@ -91,7 +91,7 @@ Added following functionalities
 <summary>Implementation Files</summary>
 <br/>
 
-Use these files to complete the implementation:
+Used these following files to complete the implementation:
 
 - `src/App.js`
 - `src/components/Cart/index.js`
