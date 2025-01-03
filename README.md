@@ -1,4 +1,4 @@
-Added Cart Features:
+Final Update -> Added Cart Features:
 
 ### Refer to the video below:
 
