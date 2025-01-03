@@ -2,13 +2,13 @@ Final Update -> Added Cart Features:
 
 Prime User credentials:
 
- username: rahul
- password: rahul@2021
+ username: "rahul", 
+ password: "rahul@2021"
  
 Non-Prime User credentials:
 
- username: raja
- password: raja@2021
+ username: "raja", 
+ password: "raja@2021"
 
 ### Refer to the video below:
 
