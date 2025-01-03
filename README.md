@@ -35,11 +35,11 @@ Added Cart Features:
 <summary>Functionality to be added</summary>
 <br/>
 
-The app must have the following functionalities
+Added following functionalities
 
 - When an unauthenticated user tries to access the **Cart** Route, then the page should be navigated to **Login** Route
 
-- Following are the features to be implemented
+- Following are the features implemented
 
   - Feature 1
 
